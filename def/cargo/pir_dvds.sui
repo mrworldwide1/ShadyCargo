@@ -1,0 +1,12 @@
+cargo_data: cargo.pir_dvds
+{
+	name: "@@Pirated DVDs@@"
+	fragility: 0.2
+	group[]: containers
+	volume: 2.5
+	mass: 550
+	unit_reward_per_km: 0.58
+	unit_load_time: 78
+	body_types[]: curtainside
+	body_types[]: dryvan
+}

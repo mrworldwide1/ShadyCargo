@@ -1,0 +1,6 @@
+SiiNunit
+{
+cargo_def : .pir_dvds {
+ cargo: "cargo.pir_dvds"
+}
+}
