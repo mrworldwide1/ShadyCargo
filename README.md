@@ -1,4 +1,4 @@
-Simply adds illegal-themed cargo without changing any default ones or adding new skins/trailers. No fines, border inspections, payments, etc. are changed in any way, however they're higher paid enough so as to keep the game balanced yet realistic.
+Simply adds illegal-themed cargo without changing any default ones or adding new skins/trailers. No fines, border inspections, payments, etc. are changed in any way, however they're higher paid enough so its balanced yet realistic.
 - Narcotics
 - Bootleg DVDs
 - Counterfeit ID
