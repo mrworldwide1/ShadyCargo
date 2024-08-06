@@ -5,6 +5,8 @@ Simply adds illegal-themed cargo without changing any default ones or adding new
 - Firearms
 - Organs
 - Migrants
-- Moonshine
+- Moonshine (fragile)
+
+Only general logistics/shipping companies will accept these goods to maintain realism.
 
 Common sense but this mod is just for fun; please don't actually buy or smuggle illegal items
