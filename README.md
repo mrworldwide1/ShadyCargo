@@ -1,4 +1,4 @@
-Simply adds illegal-themed cargo without changing any default ones or adding new skins/trailers. No fines, border inspections, payments, etc. are changed in any way, however they're worth slightly more for realism.
+Simply adds illegal-themed cargo without changing any default ones or adding new skins/trailers. No fines, border inspections, payments, etc. are changed in any way, however they're worth slightly more for realism:
 - Narcotics
 - Bootleg DVDs
 - Counterfeit ID
