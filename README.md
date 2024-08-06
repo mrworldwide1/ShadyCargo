@@ -1,4 +1,4 @@
-Simply adds illegal-themed cargo without changing any default ones or adding new skins/trailers. No fines, border inspections, payments, etc. are changed in any way, however the included ones are slightly higher paying for realism:
+Simply adds illegal-themed cargo without changing any default ones or adding new skins/trailers. No fines, border inspections, payments, etc. are changed in any way, however they're higher paid enough so as to keep the game balanced yet realistic.
 - Narcotics
 - Bootleg DVDs
 - Counterfeit ID
@@ -7,6 +7,6 @@ Simply adds illegal-themed cargo without changing any default ones or adding new
 - Migrants
 - Moonshine (fragile)
 
-Only general logistics/shipping companies will accept these goods to maintain realism.
+Only general logistics/shipping companies will accept them to maintain realism.
 
 Common sense but this mod is just for fun; please don't actually buy or smuggle illegal items
