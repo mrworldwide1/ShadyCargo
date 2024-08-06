@@ -11,7 +11,7 @@ SiiNunit
 @include "cargo/count_id.sui"
 @include "cargo/firearms.sui"
 @include "cargo/human_org.sui"
-@include "cargo/illegal_mig.sui"
+@include "cargo/migrants.sui"
 @include "cargo/moonshine.sui"
 @include "cargo/narcotics.sui"
 @include "cargo/pir_dvds.sui"
