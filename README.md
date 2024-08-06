@@ -7,4 +7,4 @@ Simply adds illegal-themed cargo without changing any default ones or adding new
 - Migrants
 - Moonshine
 
-Common sense but this mod is for entertainment only; please don't actually buy or smuggle illegal items
+Common sense but this mod is just for fun; please don't actually buy or smuggle illegal items
