@@ -9,4 +9,4 @@ Simply adds illegal-themed cargo without changing any default ones or adding new
 
 Only general logistics/shipping companies will accept them.
 
-Common sense but this mod is just for fun; please don't actually buy or smuggle illegal items
+Common sense but this mod is just for fun; I do not condone buying or smuggling any real illegal items
